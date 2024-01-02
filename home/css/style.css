@@ -1,0 +1,17 @@
+.homeBody {
+    background-color: #24353F;    
+}
+
+.home {
+    background-color: #24353F;   
+}
+
+.boxshadow{
+    box-shadow: 0 1px 15px  #888888;
+}
+
+.welcomeMessage {
+    color: #17A2B8;
+    font-weight: bolder;
+    font-size: 50px;
+}

@@ -1,0 +1,18 @@
+body{
+    background-color: #24353F;
+
+}
+
+.main-page {
+    background-color: #24353F;
+    
+    box-shadow: 0 1px 15px  #888888;
+
+
+}
+.main-page h1 {
+    color: #17A2B8;
+}
+.content ::placeholder {
+    color: aliceblue;
+}
